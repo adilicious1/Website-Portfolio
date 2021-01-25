@@ -1,0 +1,67 @@
+{
+	"landing": {
+		"firstName": "Vishal",
+		"lastName": "Padma",
+		"phoneNumber": "+353 899732610",
+		"bio": "Recently completed MSc in Computer Science (NL) with major in Data Science from University College Dublin and seeking full opportunities for Data Analyst/Data Scientist/Business Analyst. Experienced professional with 2.7 years as a Software Engineer in Accenture India. ",
+    "email": "dagaranupam@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/vishal-padma-0b6153171/",
+		"github": "https://github.com/Vishalpadma"
+	},
+	"experience": [
+		{
+				"position": "Software Engineer",
+				"organization": "Accenture",
+				"aboutWork": "Responsible for Quality Assurance testing for an insurance software.",
+				"fromDate": "August 2018",
+				"toDate": "Present"
+		}
+	],
+	"education": [{
+			"university": "University College Dublin",
+			"degree": "Master's in Computer Science",
+			"gpa": "3.4",
+			"fromDate": "September 2019",
+			"toDate": "October 2020"
+		}
+	],
+	"skills": [{
+			"name": "Python"
+		},
+		{
+			"name": "SQL"
+		},
+		{
+			"name": "Tableau"
+		},
+		{
+			"name": "Machine Learning"
+		},
+		{
+			"name": "A/B Testing"
+		},
+		{
+			"name": "Regression Testing"
+		},
+		{
+			"name": "MS Office"
+		},
+		{
+			"name": "RTC"
+		}
+	],
+	"interests": {
+		"paragraphOne": "My interest as always been in the IT industry trying to learn about the new technologies coming or getting updated day to day. I always keep my myself updated with all new gadgets getting out from phones to smart watches.",
+		"paragraphTwo": " And I have a hobby of learning new things like a programming language or any new technologies which can later help me. It helps me keep my interest in place and excited me always."
+	},
+	"awards": [{
+			"awardDetail": "Rising Star Award(Accenture)."
+		},
+		{
+			"awardDetail": "ACE - Accenture Celebrates Excellence"
+		},
+		{
+			"awardDetail": "Budding CSR Star."
+		}
+	]
+}
